@@ -18,6 +18,8 @@ CREATE TABLE t_student (
   age    INT(2)
 );
 
+DROP TABLE t_student;
+
 SELECT *
 FROM t_student;
 
